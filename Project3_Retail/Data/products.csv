@@ -1,0 +1,49 @@
+product_id,product_name,category,sub_category,brand,cost_price,selling_price,discount_pct,weight_kg,stock_quantity,reorder_level,supplier,launch_date
+PRD00001,Smartphone,Electronics,Smartphone,Balakrishnan,1936.31,2246.12,8.3,3.43,1558,33,"Tak, Dalal and Deol",2022-11-24
+PRD00002,Laptop,Electronics,Laptop,Tiwari-Mutti,2234.97,2994.86,17.7,0.57,241,47,Rao-Pant,2021-08-27
+PRD00003,Tablet,Electronics,Tablet,"Suri,",1540.8,1787.33,6.0,9.78,1166,73,Parsa LLC,2021-08-14
+PRD00004,Smartwatch,Electronics,Smartwatch,Sandal-Dhar,1375.17,1718.96,26.1,11.41,376,74,"Memon, Loke and Vyas",2021-12-15
+PRD00005,Earbuds,Electronics,Earbuds,Khosla-Kothari,869.72,1069.76,22.9,1.62,828,32,Nair-Soman,2022-01-03
+PRD00006,Power Bank,Electronics,Power Bank,Iyengar,2550.11,3468.15,24.2,10.97,1148,35,Iyengar Ltd,2022-01-23
+PRD00007,Router,Electronics,Router,Chandra-Ghosh,282.46,353.07,18.9,13.29,790,93,Bose-Tandon,2021-07-16
+PRD00008,Smart TV,Electronics,Smart TV,Gulati,2128.49,2490.33,6.8,4.41,213,49,Dhawan Ltd,2021-04-14
+PRD00009,T-Shirt,Clothing,T-Shirt,"Shukla,",1171.37,1534.49,25.0,2.52,777,46,"Chahal, Sachdeva and Gaba",2022-11-18
+PRD00010,Jeans,Clothing,Jeans,"Doshi,",837.58,1239.62,19.4,9.18,400,88,Prakash-Gopal,2021-09-08
+PRD00011,Saree,Clothing,Saree,"Butala,",532.04,681.01,29.7,9.64,1190,48,"Thakkar, Chander and Bobal",2022-12-03
+PRD00012,Kurta,Clothing,Kurta,"Dar,",1006.63,1429.41,1.7,12.34,1698,60,Sachdev-Tailor,2022-02-15
+PRD00013,Jacket,Clothing,Jacket,Shankar,839.84,1024.6,28.3,13.16,694,47,"Som, Mani and Ahluwalia",2022-11-03
+PRD00014,Sneakers,Clothing,Sneakers,"Bose,",1522.73,2223.19,19.3,2.23,335,51,Bhatia-Shenoy,2022-07-29
+PRD00015,Formal Shirt,Clothing,Formal Shirt,"De,",1639.98,2312.37,12.9,8.79,791,48,Wali LLC,2021-05-22
+PRD00016,Leggings,Clothing,Leggings,Wali,1553.1,1832.66,1.4,1.73,1335,40,Wable-Vaidya,2022-11-28
+PRD00017,Mixer Grinder,Home & Kitchen,Mixer Grinder,Shah,1295.37,1515.58,11.4,14.94,1133,52,"Ganguly, Tak and Varkey",2022-07-21
+PRD00018,Pressure Cooker,Home & Kitchen,Pressure Cooker,Garg-Mital,2589.3,2977.7,21.6,10.26,1149,54,Sule and Sons,2022-10-19
+PRD00019,Air Purifier,Home & Kitchen,Air Purifier,Verma-Deshpande,1053.52,1316.9,4.7,0.15,1528,53,"Karnik, Prakash and Om",2022-05-28
+PRD00020,Water Purifier,Home & Kitchen,Water Purifier,"Cheema,",2297.79,3056.06,3.2,9.42,1773,84,Konda-Salvi,2022-09-16
+PRD00021,Bedsheet,Home & Kitchen,Bedsheet,Bir,636.79,815.09,4.8,14.31,1939,87,Oak-Sachar,2021-01-01
+PRD00022,Curtains,Home & Kitchen,Curtains,Nair-Rao,1816.89,2398.29,3.4,5.51,1753,59,Bumb-Nayak,2021-09-03
+PRD00023,Sofa Cover,Home & Kitchen,Sofa Cover,"Mand,",220.88,322.48,28.4,1.38,1045,28,"Bala, Golla and Krishna",2022-06-30
+PRD00024,Vacuum Cleaner,Home & Kitchen,Vacuum Cleaner,Lad,2309.21,2747.96,14.3,8.29,592,87,"Nagy, Sibal and Tak",2022-09-14
+PRD00025,Moisturiser,Beauty,Moisturiser,Sama,1298.26,1583.88,16.2,10.98,461,59,Apte-Tak,2022-02-13
+PRD00026,Sunscreen,Beauty,Sunscreen,"Borde,",2985.69,4120.25,13.1,7.81,297,51,"Jaggi, Nadig and Ben",2021-08-19
+PRD00027,Lipstick,Beauty,Lipstick,"Merchant,",238.88,277.1,16.6,8.87,64,29,"Mangat, Anne and Amble",2022-12-26
+PRD00028,Foundation,Beauty,Foundation,Srinivasan,1911.75,2351.45,27.2,12.91,195,85,Aggarwal-Yadav,2021-09-01
+PRD00029,Shampoo,Beauty,Shampoo,"Kara,",871.51,1150.39,16.2,10.88,1857,93,Agrawal Group,2022-08-14
+PRD00030,Face Wash,Beauty,Face Wash,Goel,1444.38,2051.02,24.2,2.94,248,75,Parsa-Bhargava,2021-12-29
+PRD00031,Serum,Beauty,Serum,"Garg,",1299.56,1702.42,21.9,10.13,1373,32,Kunda-Patla,2021-03-04
+PRD00032,Perfume,Beauty,Perfume,"Pandya,",1237.73,1571.92,25.9,3.8,439,88,Parsa-Bera,2022-04-05
+PRD00033,Yoga Mat,Sports,Yoga Mat,"Vala,",463.54,560.88,13.9,13.13,204,76,Luthra LLC,2022-07-18
+PRD00034,Dumbbell Set,Sports,Dumbbell Set,Kala-Seth,338.83,467.59,16.2,0.32,241,50,"Mitra, Kapadia and Pandey",2021-06-20
+PRD00035,Cricket Bat,Sports,Cricket Bat,Kapadia,1248.92,1648.57,25.9,13.55,387,68,Mody-Khurana,2021-01-03
+PRD00036,Football,Sports,Football,Setty,2956.66,3666.26,23.5,6.88,916,91,"Bhavsar, Bakshi and Buch",2022-11-09
+PRD00037,Treadmill,Sports,Treadmill,Chaudhuri-Sethi,2169.3,2603.16,8.9,14.53,1236,89,Taneja LLC,2021-03-04
+PRD00038,Cycling Shorts,Sports,Cycling Shorts,Chacko-Bahl,2256.53,2640.14,17.5,7.59,1796,87,Grewal-Sengupta,2021-06-11
+PRD00039,Protein Powder,Sports,Protein Powder,Ganesh-Contractor,217.79,289.66,25.5,1.12,189,50,"Tripathi, Kohli and Jain",2022-02-18
+PRD00040,Water Bottle,Sports,Water Bottle,Balasubramanian-Sura,403.67,589.36,7.4,8.96,1318,30,Ahuja-Choudhry,2022-03-06
+PRD00041,Data Science Book,Books & Stationery,Data Science Book,"Rajagopal,",1989.25,2685.49,9.5,3.99,1421,60,Ravel-Natarajan,2021-09-02
+PRD00042,Novel,Books & Stationery,Novel,Sankar,833.56,1000.27,19.4,6.91,1952,29,"Shere, Krish and Mohanty",2021-01-10
+PRD00043,UPSC Guide,Books & Stationery,UPSC Guide,Sachdeva,1401.94,2102.91,29.9,1.19,486,84,Patla PLC,2021-09-29
+PRD00044,Notebook Set,Books & Stationery,Notebook Set,"Bhargava,",440.75,559.75,2.1,3.74,633,40,"Narasimhan, Bhasin and Contractor",2022-03-25
+PRD00045,Planner,Books & Stationery,Planner,Chaudhari-Mall,2509.55,3513.37,18.4,14.81,1389,87,"Ahuja, Korpal and Dhillon",2021-01-09
+PRD00046,Pens Pack,Books & Stationery,Pens Pack,Nagi,2020.2,2707.07,28.0,1.64,1848,37,Tara and Sons,2021-09-28
+PRD00047,Highlighters,Books & Stationery,Highlighters,Mannan,390.51,464.71,16.6,4.16,1288,46,"Verma, Dhaliwal and Mammen",2021-12-18
+PRD00048,Art Supplies,Books & Stationery,Art Supplies,"Chakraborty,",650.61,891.34,7.9,7.38,1904,26,Sarin LLC,2021-04-05

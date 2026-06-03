@@ -1,0 +1,151 @@
+company_id,company_name,sector,company_size,min_cgpa,allows_backlogs,package_min_lpa,package_max_lpa,bond_years,required_skills,branches_eligible,visit_date,city,work_mode
+CMP0001,Mangat LLC,Manufacturing,Enterprise,6.2,0,3.9,6.8,0,Deep Learning|Power BI|Python|Django|Node.js,BCA|CSE,2024-07-05,Delhi,Onsite
+CMP0002,Mallick PLC,Consulting,Enterprise,7.8,0,3.1,43.2,0,Cloud AWS|Node.js,BBA|CSE,2025-04-25,Delhi,Hybrid
+CMP0003,Chahal-Bhasin,Consulting,SME,5.9,0,4.7,22.1,0,Cloud AWS|Deep Learning|NLP|Python,CSE|MCA|ME|MBA,2024-09-14,Chennai,Remote
+CMP0004,Venkatesh PLC,Consulting,SME,5.5,1,3.3,31.1,0,Python|Node.js|Cloud Azure,EEE|CE|BBA|IT,2025-01-04,Noida,Onsite
+CMP0005,"Khurana, Mann and More",E-Commerce,Enterprise,5.6,0,4.1,37.7,0,SQL|Cloud Azure|Django|Spring Boot,ME|CE,2025-04-15,Pune,Remote
+CMP0006,Nagi-Trivedi,HealthTech,Enterprise,7.1,0,5.1,28.3,0,C++|Node.js|NLP|Tableau|Machine Learning,MBA|BCA|IT,2024-11-10,Mumbai,Hybrid
+CMP0007,Grover-Savant,EdTech,Startup,7.8,0,3.7,23.8,0,Python|C++|Node.js|Django,MCA|CE|IT,2024-08-22,Bangalore,Remote
+CMP0008,"Peri, Soni and Mukhopadhyay",FinTech,Startup,6.1,0,4.3,14.2,0,React|Java|SQL|Tableau,IT|MBA,2024-08-14,Chennai,Remote
+CMP0009,Date-Menon,HealthTech,SME,6.4,1,5.1,40.0,0,Python|Deep Learning|R|Spring Boot|Cloud Azure,CE|BBA|ME|ECE|CSE,2025-04-08,Delhi,Remote
+CMP0010,"Bhatti, Sem and Mangat",EdTech,SME,7.1,0,5.4,31.1,0,Tableau|Python|Excel|Deep Learning|Data Analysis,MCA|ECE|CE|CSE|ME,2025-03-14,Hyderabad,Onsite
+CMP0011,Nori-Master,EdTech,SME,6.3,0,2.8,7.3,1,Spring Boot|Cloud Azure|Deep Learning,EEE|CE|ME|ECE|MCA|BCA,2025-05-28,Gurgaon,Onsite
+CMP0012,"Sane, Nigam and Raval",Manufacturing,MNC,7.7,1,3.2,27.3,0,Excel|Machine Learning|Python,IT|MCA|CSE|MBA|ME|CE,2024-12-12,Gurgaon,Hybrid
+CMP0013,Barman-Sahni,E-Commerce,SME,6.6,0,4.5,23.2,2,Cloud AWS|Django|Java|Excel|Deep Learning,IT|CSE|CE|BCA|MCA|BBA,2024-08-25,Pune,Hybrid
+CMP0014,"Bakshi, Doctor and Salvi",Consulting,SME,6.0,0,3.8,32.3,0,Django|Node.js|Power BI|C++,EEE|MBA|ECE|ME|MCA,2025-06-28,Pune,Remote
+CMP0015,Dhingra PLC,Finance,Startup,7.6,1,3.8,20.1,1,Spring Boot|Cloud Azure|Python,CSE|MCA|ME|ECE,2024-08-19,Mumbai,Hybrid
+CMP0016,Edwin PLC,Consulting,MNC,6.7,1,4.3,23.1,0,Java|Python,CSE|BBA|EEE,2024-12-22,Bangalore,Remote
+CMP0017,Sundaram-Suresh,Manufacturing,MNC,7.9,0,3.1,21.3,0,Deep Learning|Node.js|Excel|Tableau,CSE|ECE,2025-05-08,Pune,Remote
+CMP0018,Sunder LLC,EdTech,MNC,7.3,1,4.3,17.5,1,React|Power BI,CSE|IT|BCA|MCA|ME,2025-04-12,Gurgaon,Onsite
+CMP0019,"Dugar, Muni and Dutt",Finance,Enterprise,7.2,0,3.4,6.1,2,Cloud Azure|Django|Machine Learning|Cloud AWS|R,MCA|ME|EEE|CSE|BBA|IT,2024-10-10,Bangalore,Onsite
+CMP0020,"Baria, Dugar and Khare",IT,Enterprise,7.6,1,5.0,7.2,0,Deep Learning|Tableau|NLP|Cloud Azure|Machine Learning,MBA|EEE|ECE|ME,2025-03-08,Pune,Remote
+CMP0021,"Tripathi, Kanda and Goswami",E-Commerce,MNC,5.8,0,5.9,18.9,0,Java|Python|Data Analysis|Django,EEE|ME|CE|CSE|IT|BBA,2024-10-28,Chennai,Onsite
+CMP0022,Manda Ltd,Consulting,Enterprise,7.8,0,3.7,41.7,0,SQL|Node.js|Data Analysis|Java|Power BI,IT|BCA|ECE|CE,2024-09-30,Gurgaon,Onsite
+CMP0023,Krishna PLC,IT,SME,5.7,1,5.1,9.4,2,Tableau|R|Spring Boot,BCA|MCA|ME|CE|MBA|ECE,2024-12-16,Mumbai,Onsite
+CMP0024,Prasad Ltd,Consulting,Enterprise,6.6,0,2.5,39.5,1,Cloud Azure|Python|React|Node.js|Data Analysis,ME|BBA|ECE|MBA|CSE,2025-02-18,Delhi,Hybrid
+CMP0025,Krishnamurthy-Barman,Manufacturing,Startup,6.1,0,4.9,29.9,0,SQL|Power BI|NLP,IT|BCA,2025-02-06,Delhi,Hybrid
+CMP0026,Ganesh-Ratti,HealthTech,SME,6.0,1,2.9,12.4,0,React|Machine Learning|Django|Tableau,MCA|ME|MBA|CE|ECE,2024-12-23,Delhi,Hybrid
+CMP0027,Chaudry-Aggarwal,Manufacturing,MNC,7.1,0,3.3,11.0,0,NLP|Python|Data Analysis,IT|CE,2024-12-04,Pune,Hybrid
+CMP0028,Yogi Group,EdTech,Startup,7.2,0,5.8,20.5,0,NLP|Deep Learning|R,BCA|BBA|CSE,2025-05-31,Hyderabad,Remote
+CMP0029,Sinha-Chand,Consulting,Enterprise,5.5,0,4.8,33.4,0,NLP|React,MBA|BCA|MCA|CE|IT|BBA,2024-12-24,Bangalore,Onsite
+CMP0030,Desai-Soni,Finance,Enterprise,6.5,1,2.7,40.4,1,Tableau|Java|Power BI|Cloud Azure|Machine Learning,MBA|CE|EEE|ECE|BCA,2025-06-03,Mumbai,Remote
+CMP0031,Chander-Deshmukh,EdTech,Enterprise,7.0,1,4.1,9.1,2,Spring Boot|Power BI|Excel|Machine Learning|Data Analysis,CE|IT|BBA|CSE,2024-07-15,Hyderabad,Hybrid
+CMP0032,Karan-Patla,FinTech,Enterprise,6.6,1,5.3,42.7,0,Django|SQL,MCA|ECE|BBA,2025-06-22,Pune,Hybrid
+CMP0033,Khalsa and Sons,IT,Startup,5.7,1,3.8,42.0,1,C++|SQL|Python,ME|BCA|CE|ECE|EEE|BBA,2025-05-28,Hyderabad,Remote
+CMP0034,"Chauhan, Gole and Thaman",E-Commerce,Startup,7.7,1,2.9,17.2,1,Cloud AWS|Machine Learning|Django|Tableau|Java,BBA|IT|CSE|MCA,2024-12-01,Chennai,Onsite
+CMP0035,Chada LLC,Manufacturing,Startup,6.6,1,2.5,13.3,0,Tableau|Django,CE|CSE|EEE|BCA|BBA,2024-07-02,Noida,Remote
+CMP0036,Batta Ltd,Finance,Enterprise,6.1,0,4.8,30.1,1,Node.js|Spring Boot,ECE|IT|MBA|EEE|BBA,2024-07-31,Mumbai,Hybrid
+CMP0037,"Patel, Sule and Bhattacharyya",Consulting,MNC,6.9,1,3.4,16.5,2,R|Python|Tableau|Excel|SQL,BBA|CE|MBA|CSE,2025-01-17,Hyderabad,Hybrid
+CMP0038,Kadakia LLC,EdTech,Startup,5.8,0,2.9,32.3,0,Python|Excel|Cloud AWS|Cloud Azure|R,CE|MCA|MBA|CSE|BBA,2025-05-19,Delhi,Hybrid
+CMP0039,Parsa Group,Consulting,Enterprise,5.9,0,4.2,19.4,0,Deep Learning|Node.js|Django|Machine Learning,IT|CE,2024-09-27,Noida,Remote
+CMP0040,Pandya Ltd,IT,Enterprise,6.2,0,5.0,14.4,2,Node.js|Machine Learning|React,IT|MBA|BCA|ECE|ME|CSE,2024-11-23,Pune,Hybrid
+CMP0041,Yadav-Bhandari,EdTech,Startup,7.6,1,5.0,10.8,0,Machine Learning|Power BI,ME|ECE|CE|BBA|MBA,2024-08-22,Chennai,Remote
+CMP0042,Dhaliwal PLC,FinTech,MNC,6.2,0,4.4,37.4,0,Power BI|Python|Machine Learning|Java|Tableau,BBA|EEE|ME|IT|ECE|CSE,2025-03-26,Chennai,Onsite
+CMP0043,Doctor and Sons,HealthTech,Startup,5.5,1,4.2,39.4,1,R|Machine Learning|Python|Django|SQL,EEE|BBA|CSE|MCA|CE|ME,2024-10-02,Gurgaon,Onsite
+CMP0044,Hora-Kota,E-Commerce,MNC,5.9,0,5.4,39.0,1,R|Cloud AWS,ECE|IT|BBA|MCA|EEE,2024-08-08,Chennai,Hybrid
+CMP0045,"Sanghvi, Devi and Mannan",Manufacturing,SME,7.3,0,3.7,36.9,0,Spring Boot|Cloud AWS|Java|C++|Tableau,BCA|ME,2024-10-31,Noida,Remote
+CMP0046,"Bajaj, Buch and Chanda",Consulting,SME,7.5,0,3.2,14.1,2,NLP|React,MCA|BCA,2024-10-15,Delhi,Onsite
+CMP0047,Balakrishnan Ltd,E-Commerce,Startup,7.1,0,3.4,18.5,2,Spring Boot|Node.js|Deep Learning|Machine Learning|SQL,MCA|CE|EEE|BCA|MBA|IT,2024-08-19,Hyderabad,Remote
+CMP0048,"Mukherjee, Pau and Babu",IT,SME,7.8,1,5.0,15.3,0,Spring Boot|Tableau,IT|MBA|ECE|BBA|ME,2025-02-26,Pune,Hybrid
+CMP0049,Sastry-Sidhu,E-Commerce,Startup,7.9,0,4.6,38.2,0,Django|C++|Cloud Azure|Java,EEE|BBA,2025-02-05,Bangalore,Remote
+CMP0050,Verma Inc,EdTech,Enterprise,7.5,1,3.8,35.2,2,Node.js|C++|Cloud Azure|Power BI|SQL,EEE|CSE|ECE|CE|BBA,2025-02-01,Delhi,Onsite
+CMP0051,Thaker Group,Consulting,Enterprise,7.3,0,4.5,34.6,2,Cloud Azure|Cloud AWS|Power BI|Deep Learning|Python,IT|EEE|MCA|ECE|CSE|BBA,2025-04-06,Hyderabad,Remote
+CMP0052,Kata-Sur,Finance,Enterprise,6.4,0,4.2,35.3,0,Spring Boot|Power BI,CSE|ME|MCA,2025-06-02,Hyderabad,Onsite
+CMP0053,Ben PLC,Finance,SME,6.2,0,5.5,16.9,2,Machine Learning|C++|Tableau,CE|MBA|MCA,2024-09-14,Delhi,Hybrid
+CMP0054,Balasubramanian-Bhasin,Finance,Startup,5.8,0,3.3,16.8,0,Power BI|Spring Boot|Java|Machine Learning|Deep Learning,BCA|CSE|BBA|CE,2024-08-23,Chennai,Onsite
+CMP0055,"Mahajan, Dave and Bhat",Manufacturing,MNC,7.2,0,4.6,22.0,0,Cloud Azure|Spring Boot,EEE|MBA|ME|IT|CE,2025-03-31,Pune,Onsite
+CMP0056,Padmanabhan Group,EdTech,SME,6.1,0,5.2,13.1,0,Java|SQL|Cloud AWS,CE|IT|BBA|CSE|EEE,2024-11-12,Gurgaon,Hybrid
+CMP0057,Kalla and Sons,Consulting,SME,7.2,1,4.9,21.3,1,React|Django|Deep Learning|NLP,CE|CSE|EEE|IT|ECE,2024-07-10,Pune,Hybrid
+CMP0058,Kade and Sons,IT,Startup,6.3,1,5.3,21.8,0,Java|Excel|Spring Boot|Django|Cloud Azure,BCA|CE|MBA|ME,2025-06-06,Hyderabad,Remote
+CMP0059,"Sandal, Sami and Kalita",FinTech,SME,7.7,1,5.4,28.9,0,NLP|Node.js|Cloud AWS|C++,EEE|BBA|MCA|CSE,2024-09-28,Hyderabad,Hybrid
+CMP0060,Cherian-Ranganathan,E-Commerce,Startup,6.6,0,5.8,23.3,1,Cloud AWS|C++,BCA|MCA|CSE|CE|BBA|ME,2025-02-24,Mumbai,Hybrid
+CMP0061,Chaudhari LLC,FinTech,SME,6.2,1,3.7,41.8,1,Power BI|Machine Learning|R|Excel|Cloud AWS,ECE|CSE|MCA|MBA,2025-03-20,Pune,Onsite
+CMP0062,Keer PLC,Manufacturing,Startup,7.4,0,2.7,23.1,0,Deep Learning|Cloud Azure|React|Data Analysis|Cloud AWS,ME|EEE,2025-01-28,Pune,Remote
+CMP0063,Balakrishnan-Kar,E-Commerce,Enterprise,5.7,0,5.6,29.3,0,Python|Java|R|Power BI|Django,BCA|ECE|IT|MBA|EEE|CSE,2024-09-24,Chennai,Onsite
+CMP0064,Brar PLC,E-Commerce,MNC,6.2,0,5.9,10.5,0,Power BI|Java|SQL,BBA|ECE|IT,2025-01-27,Delhi,Remote
+CMP0065,Dada-Dhillon,Consulting,SME,7.8,0,4.6,13.4,0,Power BI|Cloud Azure|Excel|C++|SQL,EEE|BBA|CSE|MBA|MCA|IT,2024-10-13,Bangalore,Remote
+CMP0066,"Goda, Hari and Rajan",EdTech,SME,5.8,1,2.6,38.7,0,C++|Node.js|Deep Learning|Data Analysis,MBA|CSE|BCA|EEE|ECE|ME,2025-06-16,Bangalore,Hybrid
+CMP0067,"Goel, Bora and Natarajan",Manufacturing,Enterprise,7.0,0,5.9,29.1,0,Cloud AWS|Python|Machine Learning|React|Power BI,BCA|ECE,2024-07-09,Bangalore,Hybrid
+CMP0068,"Verma, Sidhu and Prabhu",Consulting,Enterprise,6.9,0,4.7,12.3,0,Django|Tableau|Node.js,CE|EEE|MCA|ECE,2024-07-27,Mumbai,Remote
+CMP0069,Bal-Nagy,Consulting,Enterprise,6.9,0,2.6,42.2,2,Cloud Azure|Deep Learning|Tableau|SQL,MBA|CE,2025-05-15,Hyderabad,Onsite
+CMP0070,Sura LLC,Consulting,MNC,6.8,0,4.4,42.5,1,Cloud AWS|NLP,CE|MCA|EEE|ECE,2025-06-09,Chennai,Hybrid
+CMP0071,"Chander, Krish and Menon",Finance,SME,7.6,1,4.0,42.5,0,Power BI|Data Analysis|Spring Boot|C++|Python,IT|MCA|EEE|CE|MBA|BBA,2025-06-26,Pune,Remote
+CMP0072,Roy-Kibe,HealthTech,MNC,5.9,1,3.7,11.8,0,Data Analysis|Power BI,MCA|EEE|CSE|CE|BCA,2025-01-10,Mumbai,Onsite
+CMP0073,Edwin Ltd,Finance,Enterprise,7.3,1,5.3,37.7,0,Java|Python|Power BI|Cloud Azure,CSE|ECE|MBA,2025-02-19,Noida,Remote
+CMP0074,Balasubramanian Inc,EdTech,Startup,5.9,0,5.5,38.9,1,Power BI|Node.js,CSE|EEE|ECE,2024-07-31,Delhi,Onsite
+CMP0075,Dada Group,IT,SME,7.0,0,2.9,27.8,0,Spring Boot|Power BI|C++,EEE|BCA,2025-03-29,Gurgaon,Remote
+CMP0076,Arya-Parmer,Finance,MNC,5.8,1,4.1,28.6,0,Data Analysis|Deep Learning|Java|Cloud AWS|Node.js,ECE|ME|BBA|BCA|MCA,2025-06-12,Chennai,Hybrid
+CMP0077,"Magar, Arya and Ramaswamy",E-Commerce,Enterprise,5.6,0,4.5,18.4,0,Power BI|Java|Data Analysis,EEE|ECE|BBA|MCA|CSE|BCA,2025-03-29,Gurgaon,Hybrid
+CMP0078,Sankaran Group,HealthTech,MNC,7.5,0,3.1,38.9,0,Cloud AWS|Java|Deep Learning|Excel|SQL,ME|BCA|BBA|IT|MBA|CSE,2025-05-11,Delhi,Onsite
+CMP0079,"Butala, Virk and Dugar",Finance,MNC,6.1,0,5.8,43.6,1,React|Python,MCA|CSE|ME|CE|IT,2024-07-06,Bangalore,Hybrid
+CMP0080,Comar and Sons,Finance,SME,7.8,1,5.0,6.5,0,Tableau|Excel|Data Analysis,ME|IT|CE|CSE|BBA,2024-09-01,Hyderabad,Hybrid
+CMP0081,Biswas-Gole,Consulting,Startup,6.4,0,4.0,40.0,2,NLP|Excel,BBA|IT|CE|MCA|ECE,2025-03-11,Bangalore,Remote
+CMP0082,Purohit LLC,Manufacturing,Enterprise,6.9,0,2.8,35.5,1,Spring Boot|Power BI|Cloud AWS,EEE|MBA,2024-09-11,Pune,Onsite
+CMP0083,"Mangal, Master and Verma",HealthTech,Startup,6.9,0,5.9,30.4,2,Excel|R|Data Analysis|React,ME|CSE|CE|MCA,2024-12-11,Pune,Remote
+CMP0084,Sawhney-Verma,FinTech,SME,7.2,1,3.1,6.8,1,Cloud Azure|Spring Boot|C++,BCA|ME,2024-11-30,Gurgaon,Hybrid
+CMP0085,Seshadri-Golla,IT,Enterprise,7.9,0,5.4,43.9,2,Power BI|Django|Cloud Azure|Excel|R,EEE|BBA|CE,2024-09-18,Chennai,Remote
+CMP0086,Sandhu PLC,IT,MNC,6.9,0,3.1,12.5,0,Excel|C++,EEE|CE|BBA|CSE,2024-10-08,Mumbai,Onsite
+CMP0087,"Bandi, Talwar and Gola",EdTech,SME,5.7,0,3.7,24.9,0,React|Machine Learning,IT|ECE|MBA,2024-09-04,Mumbai,Remote
+CMP0088,Kata Group,Manufacturing,SME,5.8,0,3.1,31.4,0,NLP|Django|Cloud Azure,CSE|IT|ME|EEE|CE,2024-08-22,Mumbai,Hybrid
+CMP0089,Borde-Dugar,IT,Startup,7.5,0,4.8,41.4,0,Spring Boot|Cloud AWS|C++|NLP,CSE|BCA|CE|ECE,2024-08-26,Mumbai,Onsite
+CMP0090,Bhakta Group,IT,SME,5.5,0,3.7,24.7,0,React|Spring Boot|Java|C++,IT|EEE|BBA|CSE|ME,2024-12-06,Bangalore,Remote
+CMP0091,Pandey Inc,Manufacturing,Startup,5.6,1,5.4,44.2,0,Tableau|R|Node.js|Deep Learning|Machine Learning,IT|CE|ME|BCA|MBA|ECE,2025-02-05,Delhi,Hybrid
+CMP0092,Wason-Shukla,EdTech,MNC,7.1,0,4.5,10.2,0,Power BI|Node.js|NLP|Django,BBA|CSE,2024-08-22,Noida,Remote
+CMP0093,"Thaman, Hayer and Mital",Finance,MNC,6.0,0,5.6,21.3,0,SQL|Cloud AWS|Power BI,CSE|BBA|EEE,2024-07-04,Delhi,Hybrid
+CMP0094,Hegde LLC,EdTech,SME,7.7,1,5.1,13.9,0,Django|Spring Boot|Excel|Java|React,BBA|MBA|EEE|CE,2025-03-18,Noida,Hybrid
+CMP0095,Butala-Sundaram,FinTech,MNC,7.8,1,2.7,36.2,0,SQL|Node.js,MBA|ECE,2024-09-12,Mumbai,Hybrid
+CMP0096,Palla-Dalal,HealthTech,SME,7.8,0,2.5,11.9,0,Python|Power BI|C++,ME|ECE|CE|BBA,2024-12-07,Bangalore,Remote
+CMP0097,Dugar LLC,E-Commerce,Startup,5.8,1,3.7,25.2,0,Power BI|Machine Learning,ECE|EEE|MBA|CSE,2025-06-23,Bangalore,Hybrid
+CMP0098,Dalal-Krishna,FinTech,Enterprise,6.1,0,4.9,29.3,1,Power BI|Excel,CSE|CE|BCA,2024-12-04,Delhi,Remote
+CMP0099,"Bains, Khatri and Dhawan",E-Commerce,MNC,6.1,0,4.3,36.2,1,Machine Learning|Java,CSE|MBA|BCA,2025-01-07,Noida,Remote
+CMP0100,Arora-Ratta,E-Commerce,Startup,7.3,0,4.6,15.7,1,NLP|Cloud Azure|React|Tableau,EEE|ME,2024-10-02,Bangalore,Onsite
+CMP0101,"Mane, Chatterjee and Kapoor",E-Commerce,MNC,7.6,1,5.4,33.1,1,Deep Learning|Power BI,ECE|CSE|CE|BCA|MCA,2024-10-07,Chennai,Hybrid
+CMP0102,Sagar-Vig,Finance,MNC,6.9,1,4.0,10.6,0,R|Django,ECE|CE|MBA|BCA,2024-08-16,Noida,Onsite
+CMP0103,Krish-Golla,E-Commerce,SME,7.1,0,4.0,20.3,0,Node.js|R|Spring Boot|Tableau|NLP,CSE|CE|BCA|ECE|ME|BBA,2025-03-20,Pune,Remote
+CMP0104,Chaudhari-Bera,E-Commerce,Startup,5.5,0,3.6,29.2,0,React|Deep Learning,BCA|ECE|CSE|ME|EEE|CE,2025-03-15,Mumbai,Onsite
+CMP0105,Ganesh-Hayer,Manufacturing,Startup,7.7,1,3.1,21.8,2,SQL|Java|Cloud Azure|Spring Boot,ME|BBA|ECE|CSE|MCA|IT,2024-07-12,Hyderabad,Onsite
+CMP0106,Srinivasan-Sankar,FinTech,MNC,7.7,0,2.9,11.7,1,Tableau|Spring Boot|Deep Learning|Machine Learning,BCA|CSE,2024-08-07,Hyderabad,Hybrid
+CMP0107,Ray Ltd,IT,MNC,7.5,1,3.4,36.6,0,Machine Learning|Power BI,ME|BCA|ECE|EEE,2024-08-20,Delhi,Hybrid
+CMP0108,Mallick Inc,EdTech,Enterprise,7.5,0,3.1,22.6,0,Node.js|Python|Spring Boot|NLP,IT|MCA|MBA,2025-05-01,Chennai,Remote
+CMP0109,Vohra-Barad,IT,MNC,6.1,1,5.3,36.0,0,Deep Learning|Java|Cloud AWS|C++|Node.js,CE|CSE|MCA|BCA|MBA|ME,2025-02-13,Pune,Onsite
+CMP0110,Ramanathan PLC,Manufacturing,SME,6.1,0,3.3,44.9,0,Tableau|Spring Boot,BCA|MBA,2025-06-20,Hyderabad,Remote
+CMP0111,Chatterjee LLC,EdTech,Startup,7.7,0,4.7,39.7,1,Excel|SQL|Java|Python|Deep Learning,BCA|CSE,2025-03-02,Hyderabad,Remote
+CMP0112,Chowdhury Group,Consulting,Startup,6.8,0,4.7,10.8,0,Tableau|Machine Learning|Cloud AWS|Python|Excel,MCA|BBA,2024-12-08,Pune,Hybrid
+CMP0113,Bhagat-Chad,IT,Enterprise,7.1,0,5.8,21.4,1,Deep Learning|Node.js,BBA|CSE|BCA|MCA|CE,2024-10-06,Chennai,Remote
+CMP0114,Parsa LLC,Manufacturing,Enterprise,7.8,0,5.5,9.5,2,SQL|C++|Node.js,CE|ME,2025-01-16,Noida,Remote
+CMP0115,Radhakrishnan Ltd,FinTech,Startup,7.9,1,4.9,28.6,1,Django|R|Cloud AWS,ME|BCA|IT|MCA|CE|MBA,2025-01-08,Bangalore,Remote
+CMP0116,Choudhary-Kohli,EdTech,MNC,7.1,0,2.6,35.1,0,Python|Deep Learning|R,ME|EEE,2024-08-13,Noida,Remote
+CMP0117,Mandal LLC,FinTech,MNC,5.8,0,5.6,36.2,2,Python|Tableau|Cloud AWS|NLP,CSE|ECE|IT|EEE,2025-03-17,Gurgaon,Remote
+CMP0118,Vasa-Chaudhuri,E-Commerce,SME,6.0,1,2.6,14.8,2,Django|Machine Learning|Node.js|SQL,IT|CE|BCA|CSE|ECE|BBA,2024-08-23,Hyderabad,Hybrid
+CMP0119,Palla and Sons,Consulting,SME,7.8,1,2.8,30.7,0,Python|Node.js|Cloud Azure|Java|SQL,ECE|CSE|ME|BBA,2024-08-08,Chennai,Hybrid
+CMP0120,Boase PLC,Consulting,Startup,7.5,1,4.9,29.2,2,Machine Learning|Java|C++|Data Analysis,BBA|BCA|ECE|EEE|MBA|IT,2025-04-21,Hyderabad,Remote
+CMP0121,"Handa, Grover and Sangha",FinTech,Enterprise,6.1,0,4.0,22.0,0,Power BI|Spring Boot,CE|MCA|CSE|IT|ECE|ME,2024-10-07,Chennai,Remote
+CMP0122,"Tella, Dixit and Rana",EdTech,SME,6.2,0,2.7,29.4,2,Cloud AWS|Node.js|Excel|React|Tableau,BBA|IT|CE|BCA|CSE|ME,2025-03-29,Pune,Hybrid
+CMP0123,Trivedi-Dhar,E-Commerce,MNC,6.7,0,2.9,39.3,1,Tableau|Deep Learning|Django,BBA|CSE,2024-08-14,Bangalore,Remote
+CMP0124,"Bahl, Sodhi and Kant",IT,SME,6.9,0,5.4,16.1,0,React|Machine Learning,CSE|IT|CE|ECE|ME|EEE,2024-09-23,Delhi,Hybrid
+CMP0125,"Varma, Varughese and Madan",FinTech,MNC,5.8,0,2.8,11.4,1,React|Data Analysis,CSE|MBA,2025-02-20,Delhi,Remote
+CMP0126,"Verma, Bahri and Grewal",E-Commerce,SME,7.7,0,5.0,26.6,1,Excel|Tableau|R|Machine Learning|Spring Boot,BBA|IT|MCA|BCA|MBA|ECE,2024-10-02,Mumbai,Hybrid
+CMP0127,"Chatterjee, Ramesh and Ghose",Finance,SME,6.6,0,3.1,25.5,0,Power BI|Tableau,MCA|BBA|CSE|ECE|IT|BCA,2024-10-15,Pune,Hybrid
+CMP0128,Dada-Shukla,EdTech,Startup,6.5,0,5.8,25.7,0,Django|React|C++,CE|MCA,2024-12-12,Pune,Remote
+CMP0129,Hayer-Modi,Finance,Startup,5.7,0,4.7,9.5,1,Spring Boot|C++,ECE|BCA,2024-08-27,Pune,Hybrid
+CMP0130,Choudhry Group,Finance,MNC,6.1,0,5.9,10.2,0,Deep Learning|Python|Tableau|C++,BBA|MBA|CSE|MCA,2025-02-21,Delhi,Hybrid
+CMP0131,"Raja, Seshadri and Sunder",EdTech,SME,5.5,0,3.0,25.2,0,Django|Cloud Azure|Tableau|Python|Java,MCA|MBA|ECE|EEE|CSE,2025-05-10,Pune,Remote
+CMP0132,Kohli-Buch,Consulting,Enterprise,7.2,0,4.1,20.5,1,Spring Boot|Power BI|Cloud AWS|Node.js|Data Analysis,MBA|ECE,2025-04-14,Delhi,Hybrid
+CMP0133,"Nigam, Singh and Kata",Finance,Enterprise,7.0,0,4.4,34.4,0,Excel|Spring Boot,CSE|BBA|EEE|MCA,2025-01-13,Noida,Onsite
+CMP0134,Sarma-Varma,IT,SME,7.6,0,3.6,14.1,0,SQL|Python|Cloud Azure|Machine Learning|NLP,MCA|EEE|IT|BCA|BBA|MBA,2025-02-15,Bangalore,Onsite
+CMP0135,Banik-Hari,Finance,Startup,7.8,1,2.6,17.3,0,Data Analysis|C++|Excel|Python|Java,CSE|MCA|EEE,2024-07-12,Mumbai,Hybrid
+CMP0136,"Kashyap, Mane and Gulati",E-Commerce,MNC,6.8,1,5.2,6.8,1,NLP|React|Django,MBA|IT|CE,2025-03-30,Pune,Onsite
+CMP0137,"Kamdar, Cheema and Kadakia",FinTech,Startup,7.3,0,3.2,19.7,0,Deep Learning|Tableau|Spring Boot,ECE|BBA|CSE|MBA|ME|BCA,2025-02-15,Noida,Onsite
+CMP0138,Tailor PLC,E-Commerce,Enterprise,5.9,0,3.9,10.1,0,Python|R|Deep Learning|Machine Learning,CE|ECE|BBA|EEE,2025-03-21,Gurgaon,Remote
+CMP0139,Issac-Kade,IT,Startup,6.5,0,3.7,38.7,1,Django|R|Java,ME|IT|EEE|MCA,2024-09-27,Bangalore,Remote
+CMP0140,Aurora Inc,Finance,SME,6.6,0,3.5,10.3,1,Spring Boot|Java|Django|Cloud AWS,BCA|ME|IT|MBA|CE,2024-08-09,Noida,Onsite
+CMP0141,Joshi PLC,Consulting,Startup,7.7,0,2.7,11.6,0,Data Analysis|Deep Learning|Node.js,EEE|BCA|MCA,2024-12-07,Pune,Remote
+CMP0142,Shah-Seshadri,E-Commerce,Enterprise,6.9,0,5.0,12.5,0,Tableau|Data Analysis,BCA|IT|EEE|MCA|CE,2024-11-14,Bangalore,Onsite
+CMP0143,"Bassi, Iyengar and Ranganathan",HealthTech,Startup,6.3,0,4.5,20.6,0,Machine Learning|Cloud AWS,CE|BCA,2025-04-30,Bangalore,Hybrid
+CMP0144,"Parsa, Jaggi and Oommen",Finance,Startup,5.6,1,3.5,41.9,1,Deep Learning|Machine Learning,ME|CSE|CE,2024-08-01,Mumbai,Onsite
+CMP0145,"Om, Sachdev and Prabhu",FinTech,Startup,7.6,0,4.9,41.9,0,NLP|Machine Learning|Data Analysis|SQL|C++,CE|BCA|MCA|IT,2025-04-25,Chennai,Hybrid
+CMP0146,"Balan, Char and Kurian",IT,MNC,7.5,0,3.5,9.9,2,SQL|NLP|Deep Learning|Python|Cloud AWS,BBA|ECE|BCA|ME|CE|IT,2024-11-26,Noida,Hybrid
+CMP0147,Barad-Batra,Consulting,Enterprise,5.9,0,3.5,14.7,0,NLP|React|Power BI|Tableau,ME|BCA|CE,2024-12-19,Delhi,Onsite
+CMP0148,"Mitter, Grewal and Kalita",Consulting,SME,7.2,1,5.0,24.0,0,React|Power BI|Cloud AWS|Tableau|Java,BCA|ECE|CE|ME|CSE|BBA,2024-07-22,Noida,Onsite
+CMP0149,Ghose-Iyengar,IT,MNC,8.0,1,3.5,6.4,0,Python|C++|Tableau,IT|BBA,2024-11-03,Bangalore,Hybrid
+CMP0150,Dhar-Seth,E-Commerce,SME,7.0,0,4.3,29.1,1,Django|Cloud AWS|Node.js|C++|R,IT|CE|EEE|ME|CSE|BBA,2024-09-25,Mumbai,Remote
