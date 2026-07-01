@@ -82,7 +82,7 @@ ML:          Random Forest · Gradient Boosting · K-Means · Logistic Regressio
 - 📄 **IEEE DELCON 2025** — Presented: *Multimodal Driver Drowsiness Detection System*
 - 📄 **Tractate 2025** — Presented: *Big Data-Based Stock Price Prediction using ML*
 - 🏛️ **Core Team** — INDIACom 2025 International Conference
-- 🎓 **MCA** — BVICAM, GGSIPU (2024–Present)
+- 🎓 **MCA** — BVICAM, GGSIPU (2024–June2026)
 - 🎓 **B.Sc** — University of Allahabad (2019–2022)
 - 📜 **Python Programming Internship** — IIT BHU, Varanasi
 - 📜 **O-Level** — NIELIT
