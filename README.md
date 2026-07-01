@@ -1,5 +1,5 @@
 # 🚀 Data Analytics Portfolio
-## Shubham Dubey | MCA Student — BVICAM, GGSIPU
+## Shubham Dubey | MCA Graduate (2026) from BVICAM–GGSIPU
 
 > 🔗 **[Explore Live Interactive Web Dashboard](https://shubh0705-ind.github.io/Shubham_Dubey_Portfolio/)**  
 > 📧 shubhdubey859@gmail.com | 📞 +91 7269098633 | 🔗 [LinkedIn](https://linkedin.com/in/shubham-dubey-b76a92138)
