@@ -92,10 +92,10 @@ RFM Analysis, Cohort Analysis, Pareto Analysis, EDA, A/B Testing Concepts, Busin
 ## SUMMARY STATEMENT OPTIONS
 
 **Option A (Data Analyst focus):**
-"Detail-oriented MCA graduate with hands-on experience in end-to-end data analytics — from SQL database design and Python EDA to Power BI dashboarding and predictive modelling. Published IEEE researcher with 3 portfolio projects spanning placement analytics, NLP brand intelligence, and retail forecasting across 100,000+ records."
+"Detail-oriented MCA graduate with hands-on experience in end-to-end data analytics — from SQL database design and Python EDA to Power BI dashboarding and predictive modelling. Published IEEE researcher with 4 portfolio projects spanning placement analytics, NLP brand intelligence, retail forecasting, and ranking systems across 200,000+ records."
 
 **Option B (Business Analyst focus):**
-"Analytically driven MCA graduate combining strong SQL/Python technical skills with business insight generation. Built 3 industry-quality analytics projects delivering measurable outcomes: 86% ML accuracy, 1.75% forecast MAPE, and 70% reporting time reduction. IEEE-published researcher with active contributions to academic and applied data communities."
+"Analytically driven MCA graduate combining strong SQL/Python technical skills with business insight generation. Built 4 industry-quality analytics projects delivering measurable outcomes: 86% ML accuracy, 1.75% forecast MAPE, and 70% reporting time reduction. IEEE-published researcher with active contributions to academic and applied data communities."
 
 **Option C (Power BI/BI Analyst focus):**
 "Power BI developer and data analyst with expertise in DAX, star schema design, and executive dashboard creation. Proficient in Python, SQL, and end-to-end BI pipeline construction. Built dashboards tracking 10+ KPIs across placement, brand intelligence, and retail domains. MCA Graduate (2026) from BVICAM GGSIPU with 2 research publications."

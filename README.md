@@ -8,9 +8,9 @@
 
 ## 👋 About This Portfolio
 
-This repository contains **3 end-to-end industry-quality data analytics projects** built as part of my MCA academic journey. Each project covers the complete analytics pipeline: business problem → data engineering → SQL analytics → Python EDA → advanced analytics → Power BI dashboard → business insights → interview preparation.
+This repository contains **4 end-to-end industry-quality data analytics projects** built as part of my MCA academic journey. Each project covers the complete analytics pipeline: business problem → data engineering → SQL analytics → Python EDA → advanced analytics → Power BI dashboard → business insights → interview preparation.
 
-**Total data processed:** 100,000+ records across 3 domains  
+**Total data processed:** 200,000+ records across 4 domains  
 **Technologies:** Python · SQL · Power BI · Machine Learning · NLP · Time Series  
 **Research:** IEEE DELCON 2025 · Tractate 2025
 
@@ -23,6 +23,7 @@ This repository contains **3 end-to-end industry-quality data analytics projects
 | 1 | [Placement Management Analytics](Project1_Placement/) | Education/HR | 46,000+ | Python, SQL, ML, Power BI | 86% ML accuracy |
 | 2 | [Sentiment & Brand Intelligence](Project2_Sentiment/) | NLP/Marketing | 30,000+ | VADER, TextBlob, LDA | 3-brand sentiment dashboard |
 | 3 | [Retail Sales Forecasting](Project3_Retail/) | E-Commerce | 60,000+ | Prophet, RFM, Cohort | 1.75% MAPE forecast |
+| 4 | [Candidate Ranking Engine](Project4_Redrob/) | HR/MLOps | 100,000+ | Python, FAISS, XGBoost | Top 100 Leaderboard |
 
 ---
 
@@ -55,6 +56,11 @@ ML:          Random Forest · Gradient Boosting · K-Means · Logistic Regressio
 - **Problem:** Manual reporting consuming 70% of analyst time; no forecast capability
 - **Solution:** Prophet forecasting (MAPE 1.75%) + RFM segmentation + cohort analysis + Power BI
 - **Impact:** 70% reporting reduction; 7 customer segments for targeted marketing
+
+### Project 4 — Redrob Candidate Ranking Engine
+- **Problem:** Recruiting top-tier AI Engineers is plagued by resume padding and volume overload
+- **Solution:** Feature engineering + XGBoost + 3-Tier Honeypot Detection
+- **Impact:** Filters 100,000+ synthetic profiles to maintain a top-100 leaderboard without global sorts
 
 ---
 
@@ -94,5 +100,6 @@ ML:          Random Forest · Gradient Boosting · K-Means · Logistic Regressio
 - 📂 [Project 1 — Placement](Project1_Placement/README.md)
 - 📂 [Project 2 — Sentiment](Project2_Sentiment/README.md)
 - 📂 [Project 3 — Retail](Project3_Retail/README.md)
-- 📄 [Resume Content (All 3 Projects)](RESUME_CONTENT.md)
+- 📂 [Project 4 — Ranking Engine](Project4_Redrob/README.md)
+- 📄 [Resume Content (All 4 Projects)](RESUME_CONTENT.md)
 
