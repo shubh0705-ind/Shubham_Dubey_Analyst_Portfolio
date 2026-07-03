@@ -989,6 +989,45 @@ footer {
       </div>
     </div>
   </div>
+
+  <!-- P4 -->
+  <div class="project-card reveal">
+    <div class="project-inner rev">
+      <div class="project-visual">
+        <div class="project-chart">
+          <svg viewBox="0 0 420 280" xmlns="http://www.w3.org/2000/svg">
+            <rect x="40" y="40" width="340" height="40" rx="8" fill="rgba(13,115,119,0.1)" stroke="#0D7377" stroke-width="1.5"/>
+            <rect x="60" y="100" width="300" height="40" rx="8" fill="rgba(13,115,119,0.08)" stroke="#0D7377" stroke-width="1"/>
+            <rect x="80" y="160" width="260" height="40" rx="8" fill="rgba(13,115,119,0.05)" stroke="#0D7377" stroke-width="0.5"/>
+            <rect x="100" y="220" width="220" height="40" rx="8" fill="rgba(217,119,6,0.1)" stroke="#D97706" stroke-width="1.5" stroke-dasharray="4,4"/>
+            <text x="210" y="65" fill="#0D7377" font-size="12" font-family="JetBrains Mono" text-anchor="middle" font-weight="bold">RANK 1: 98.5% MATCH</text>
+            <text x="210" y="125" fill="#0D7377" font-size="11" font-family="JetBrains Mono" text-anchor="middle">RANK 2: 94.2% MATCH</text>
+            <text x="210" y="185" fill="#0D7377" font-size="11" font-family="JetBrains Mono" text-anchor="middle">RANK 3: 91.0% MATCH</text>
+            <text x="210" y="245" fill="#D97706" font-size="11" font-family="JetBrains Mono" text-anchor="middle">FILTERED: HONEYPOT (0.3x)</text>
+          </svg>
+        </div>
+      </div>
+      <div class="project-content">
+        <div class="p-num">PROJECT 04 · RANKING & MLOps</div>
+        <h3 class="p-name">Redrob Candidate Ranking Engine</h3>
+        <p class="p-desc">A production-grade pipeline identifying the top 100 AI Engineers out of 100K+ synthetic profiles. Features regex-based career signal extraction, learning-to-rank scoring, and a 3-tier honeypot fraud detection system.</p>
+        <div class="p-metrics">
+          <div class="m-box"><span class="m-val mv-teal">100K+</span><span class="m-lbl">Profiles</span></div>
+          <div class="m-box"><span class="m-val mv-green">Top 100</span><span class="m-lbl">Ranking</span></div>
+          <div class="m-box"><span class="m-val mv-amber">3-Tier</span><span class="m-lbl">Fraud Filter</span></div>
+        </div>
+        <div class="p-tech">
+          <span class="ptag ptag-teal">Python</span><span class="ptag ptag-green">XGBoost</span>
+          <span class="ptag ptag-navy">NLP</span><span class="ptag ptag-navy">FAISS</span>
+          <span class="ptag ptag-amber">MLOps</span>
+        </div>
+        <div class="p-links">
+          <a href="https://github.com/shubh0705-ind/redrob-candidate-ranking-engine" target="_blank" rel="noopener noreferrer" class="lbtn lbtn-primary">GitHub ↗</a>
+          <button onclick="openModal('p4')" class="lbtn lbtn-secondary" style="cursor:pointer;border:1.5px solid var(--border2);">View Details</button>
+        </div>
+      </div>
+    </div>
+  </div>
 </section>
 
 <!-- ACHIEVEMENTS -->
@@ -1268,6 +1307,46 @@ footer {
   </div>
 </div>
 
+<div class="modal-overlay" id="modal-p4" onclick="closeModalOutside(event,'modal-p4')">
+  <div class="modal-box">
+    <div class="modal-header">
+      <h2>Redrob Candidate Ranking Engine</h2>
+      <button class="modal-close" onclick="closeModal('modal-p4')">✕</button>
+    </div>
+    <div class="modal-body">
+      <div class="modal-chip">PROJECT 04 · RANKING & MLOps</div>
+      <div class="modal-metrics">
+        <div class="modal-metric"><span class="val green">100K+</span><span class="lbl">Profiles Scored</span></div>
+        <div class="modal-metric"><span class="val">Top 100</span><span class="lbl">Leaderboard</span></div>
+        <div class="modal-metric"><span class="val amber">3-Tier</span><span class="lbl">Fraud Filter</span></div>
+      </div>
+      <div class="modal-section">
+        <h3>Business Problem</h3>
+        <p style="font-size:14px;color:#374151;line-height:1.75">Recruiting top-tier AI Engineers is plagued by resume padding and volume overload. This engine efficiently filters 100,000+ synthetic profiles to identify authentic talent while penalizing fabricated "honeypot" resumes.</p>
+      </div>
+      <div class="modal-section">
+        <h3>What I Built</h3>
+        <ul class="modal-bullets">
+          <li>Streamlined ingestion and processing pipeline for massive datasets using min-heap selectors to maintain a top-100 leaderboard without expensive global sorts.</li>
+          <li>Feature engineering module using optimized regex to extract core AI signals like FAISS, Vector DBs, XGBoost, LightGBM, and MLOps.</li>
+          <li>3-Tier Honeypot Detection system applying multiplicative penalties (0.05x to 0.6x) for mathematical impossibilities, AI buzzword stuffing, and excessive skill breadth.</li>
+          <li>Natural language reasoning generator explaining why each of the final 100 candidates was selected into the final CSV.</li>
+        </ul>
+      </div>
+      <div class="modal-section">
+        <h3>Tools & Technologies</h3>
+        <div class="modal-tags">
+          <span class="modal-tag">Python</span><span class="modal-tag">NLP</span><span class="modal-tag">Feature Engineering</span>
+          <span class="modal-tag">FAISS</span><span class="modal-tag">XGBoost</span><span class="modal-tag">MLOps</span>
+        </div>
+      </div>
+      <div class="modal-footer">
+        <a href="https://github.com/shubh0705-ind/redrob-candidate-ranking-engine" target="_blank" rel="noopener" class="modal-btn-primary">View on GitHub ↗</a>
+        <a href="mailto:shubhdubey859@gmail.com" class="modal-btn-secondary">✉ Contact Me</a>
+      </div>
+    </div>
+  </div>
+</div>
 
 <script>
 // Reveal on scroll
